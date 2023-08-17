@@ -1,5 +1,5 @@
-# npm-modal-package
-![Version](https://img.shields.io/badge/version-1.0.0-005bff)
+# vite-react-mymodal
+![Version](https://img.shields.io/badge/version-1.0.2-005bff)
 [![React](https://img.shields.io/badge/React-18.2-blueviolet)](https://reactjs.org/)
 [![React DOM](https://img.shields.io/badge/React_dom-18.2-orange)](https://reactrouter.com/)
 
@@ -55,7 +55,7 @@ export default App;
 ```
 
 ## Props
-The npm-modal-package component accepts the following props:
+The vite-react-mymodal component accepts the following props:
 
 | Prop name | Type        | Description                                        |
 |-----------|-------------|----------------------------------------------------|
@@ -64,7 +64,7 @@ The npm-modal-package component accepts the following props:
 | `footer`  | `ReactNode`   | The content to display in the footer of the modal. |
 
 ## Methods
-The react-custom-modal component also exposes two imperative methods via the ref prop:
+The vite-react-mymodal component also exposes two imperative methods via the ref prop:
 
 1. `open`: Opens the modal.
 2. `close`: Closes the modal.
@@ -73,7 +73,7 @@ You can use these methods to programmatically control the visibility of the moda
 
 ## Styling
 
-The npm-modal-package component is styled by default with Tailwind. You can style it by adding CSS rules to your project.
+The vite-react-mymodal component is styled by default with Tailwind. You can style it by adding CSS rules to your project.
 
 ## License
 
