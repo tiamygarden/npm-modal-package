@@ -1,7 +1,7 @@
 {
   "name": "vite-react-mymodal",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A modal component for React",
     "keywords": [
         "react",
