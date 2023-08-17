@@ -1,4 +1,3 @@
-import './App.css'
 import Modal from "./components/Modal.tsx";
 
 function App() {
